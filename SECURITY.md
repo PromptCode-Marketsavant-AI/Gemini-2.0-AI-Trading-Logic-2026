@@ -6,6 +6,12 @@ This repository and the associated **MS-DRIFT-26 Standard** follow the **2026 AI
 ## 🛡️ The Isolated Worker Protection
 To ensure total security, the core logic for the Gemini 2.0 Trading Engine utilizes the **Isolated Worker Pattern**. This ensures that the **Intelligence Layer (AI Reasoning)** is decoupled from the **Execution Engine (Broker Gateway)**, providing a fail-safe environment for autonomous trading.
 
+## 🔐 Data Sovereignty & Privacy (Institutional Standard)
+The **MS-DRIFT-26 Standard** is engineered for local-first, sovereign execution. 
+* **Zero-Cloud Dependency**: Your proprietary trade data and API keys remain within your local environment and never touch our servers.
+* **Encapsulated Reasoning**: The **Isolated Worker Pattern** ensures that AI reasoning (Gemini 2.0) is performed in a sandboxed environment, protecting your broker gateway from unexpected model behavior or external interference.
+* **Full Data Ownership**: You maintain 100% control over your logic grounding and audit trails.
+
 ## 🔐 Verified Master Logic Vault
 The full institutional source logic, including the encrypted **Strategy Factory** and **Quantitative Analytics Engine**, is hosted within our verified, high-security environment.
 
