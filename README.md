@@ -30,6 +30,19 @@ This repository serves as the **Technical Vault** for the MS-DRIFT-26 Sovereign 
 
 ---
 
+## ⚙️ Technical Specifications (Standard 26)
+To maintain institutional-grade integrity, the MS-DRIFT-26 operates under the following technical constraints:
+
+* **Core Engine**: Python 3.12+ Asynchronous Framework.
+* **Intelligence Layer**: Native Gemini 2.0 Flash (Multimodal Reasoning & Grounding).
+* **Data Processing**: Real-time Vectorized Analytics via Pandas & TA-Lib.
+* **Latency Benchmark**: Sub-10ms logic execution (Internal Processing).
+* **Architecture**: Isolated Worker Pattern for hallucination-free execution.
+* **Audit Standard**: RFC-compliant JSON logging for every AI-driven decision.
+* **Execution Gateway**: Non-blocking AIOHTTP broadcasting for multi-asset synchronization.
+
+---
+
 ## 🚀 Deployment & Access
 The complete, production-ready **14-page Institutional Package** (including the full PDF Source Logic and Configuration Files) is available through the official sovereign gateway:
 
