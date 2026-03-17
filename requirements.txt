@@ -1,0 +1,22 @@
+# --- [ MS-DRIFT-26 CORE DEPENDENCIES ] ---
+
+# Data Handling & Analytics
+pandas>=2.2.0
+numpy>=1.26.0
+pyyaml>=6.0.1
+
+# Quantitative Analysis (C-Library Wrapper)
+# Ensure TA-Lib C-library is installed on your OS before pip install
+talib-binary>=0.4.19
+
+# AI & LLM Integration
+# Official SDK for Gemini 2.0 Flash
+google-generativeai>=0.8.0
+
+# Asynchronous Networking & Execution
+# Required for high-speed multi-asset broadcasting
+asyncio>=3.4.3
+aiohttp>=3.9.0
+
+# Security & Environment Configuration
+python-dotenv>=1.0.0
